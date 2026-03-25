@@ -1,0 +1,6 @@
+groq_api_key.txt
+mistral_api_key.txt
+*.docx
+venv/
+__pycache__/
+.ipynb_checkpoints/
